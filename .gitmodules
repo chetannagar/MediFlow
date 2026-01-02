@@ -1,0 +1,6 @@
+[submodule "clinic_backend_api"]
+	path = clinic_backend_api
+	url = https://github.com/chetannagar/clinic-backend-api.git
+[submodule "clinic_frontend_users_portal"]
+	path = clinic_frontend_users_portal
+	url = https://github.com/chetannagar/Clinic-Frontend-Portal.git
